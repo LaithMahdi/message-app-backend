@@ -1,0 +1,26 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# Environment file
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids/
+logs/
+results/
+*.pid
+*.log
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE-specific files and directories
+.idea/
+.vscode/
